@@ -1,4 +1,8 @@
 # 奶茶伺服器 Wiki 頁面
+
+> [!WARNING] 
+    這個頁面的內容已經過時，請前往我們的[全新 Wiki 頁面](https://wiki.milkteamc.org/)查看最新內容
+    
 這是奶茶伺服器的官方 wiki，目的收錄本伺服器大部分功能的使用方法，方便玩家遊玩，歡迎使用 [PR](https://github.com/milkteamc/wiki/pulls) 對本項目做出貢獻。
 ## 目錄
 ### 新手指南
